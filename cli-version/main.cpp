@@ -11,7 +11,7 @@ bool isletter(char c){
 }
 
 
-string encryptText(string& text, int key){ //maybe remove the &
+string encryptText(string& text, int key){
     if(key < -26 || key > 26) key = key % 26;
     if(key < 0) key += 26;
 
