@@ -4,7 +4,7 @@ A C++ text obfuscation and deobfuscation application developed in two versions: 
 
 ## Overview
 
-This application takes as input english text entered from the user and gives them the coice to "enrypt" (obfuscate) or "decrypt" (deobfuscate) the entered message. It supports 2 ways (in the GUI version) of doing so: using the Ceasar's Cipher, and using a number-letter to binary mapping logic.
+This application takes as input english text entered from the user and gives them the choice to "encrypt" (obfuscate) or "decrypt" (deobfuscate) the entered message. It supports 2 ways (in the GUI version) of doing so: using the Ceasar's Cipher, and using a number-letter to binary mapping logic.
 This app can be used to add one or more layers of obfuscation to messages sent, offering a basic way to establish a communication that is not easily comprehensible by third parties. It can be used as a fun way to communicate with your friends and family. Feel free to experiment with the code and/or add your own obfuscation methods!
 
 ## DISCLAIMER
@@ -27,7 +27,7 @@ The original implementation, developed using standard C++.
 **Features:**
 - Obfuscates and deobfuscates text using the Ceasar's Cipher protocol
 - Lacks the "ignore spaces" and "ignore Uppercase" features of the GUI version
-- To terminate the input stream, use the mentioned by the app method if using windows command line. If using linux, try Ctrl + D.
+- To terminate the input stream, use the mentioned by the app method if using windows command line. If using Linux, try Ctrl + D.
 
 **Technologies:** C++
 
@@ -85,15 +85,15 @@ Text-OBDE-tool/
 
 ## What I Learned
 
-- Stengthened my C++ skills, especially string manipulation and processing by coding the right functions.
-- Acquired hands on experience on the modularity principle of application development and deployment of windows apps.
-- Qt Widgets, basic GUI development, have the user shape the way functions behave.
-- Basic protocols for obfuscating text
+- Strengthened my C++ skills, especially string manipulation, text processing, and designing functions.
+- Acquired hands on experience on the modularity and separating functionality into reusable components of application development and deployment of windows apps.
+- Qt Widgets, basic GUI development, allowing users to customize application behavior through interactive controls.
+- Gained introductory experience on protocols for obfuscating text.
 
 ## Future Improvements
 
-- Add obfuscation of special characters and other languages (apart from english)
-- Adding new obfuscation profiles
+- Add obfuscation of special characters and other languages (apart from english).
+- Adding new obfuscation profiles.
 
 ## License
 
