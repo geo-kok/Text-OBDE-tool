@@ -46,11 +46,11 @@ An enhanced desktop application featuring a graphical user interface and multipl
 
 ### Ceasar's Cipher Profile
 
-![GUI version - Ceasar's Cipher Profile](screenshots/qt-main.png)
+![GUI version - Ceasar's Cipher Profile](screenshots/ui/UI-demo1.png)
 
 ### Binary Profile
 
-![GUI version - Binary Profile](screenshots/UI-demo1.png)
+![GUI version - Binary Profile](screenshots/ui/UI-demo5.png)
 
 
 ## Project Structure
